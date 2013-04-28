@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+#cscope & tags
+cscope.files
+cscope.out
+tags
